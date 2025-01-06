@@ -10,7 +10,7 @@ I'm currently working on: **new game**
 - Bash (Windows)
 - Python
 > I'm currently learning the N/A Languange
-**WARNING!**
+## WARNING
 > Currently I got new account because of much abandoned projects at here, so no longer new projects/repositories will create and I will use that account as storage
 ---
 # RUSSIAN
@@ -25,5 +25,5 @@ I'm currently working on: **new game**
 - Bash (Windows)
 - Python
 > Я сейчас учу язык N/A
-**ВНИМАНИЕ!**
+## ВНИМАНИЕ!
 > Сейчас у меня появился новый аккаунт из-за того, что на этом все засорено и заброшено, так что новые проекты/репозитории не появятся и я буду использовать этот аккаунт как склад
